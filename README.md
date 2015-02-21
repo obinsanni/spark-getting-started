@@ -1,5 +1,5 @@
 # spark-getting-started
-Source code from an affiliated blog post, which is currently in progress.
+Source code from an affiliated blog post which has just been completed (in three parts).  The first part can be found at http://data-scientist-in-training.blogspot.com/2015/02/getting-started-with-spark-kitchen-sink.html.
 
 This tutorial consists of three parts:
 
